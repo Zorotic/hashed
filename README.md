@@ -1,1 +1,2 @@
-# hashedbot-js
+# hashed
+Hashed - Discord Bot
