@@ -1,0 +1,25 @@
+{
+  "name": "hashed",
+  "version": "1.0.0",
+  "description": "hashed discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.1-security",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashedBot/hashed.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Zoro, Zentreax, KryskZ09, Bagszy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashedBot/hashed/issues"
+  },
+  "homepage": "https://github.com/HashedBot/hashed#readme"
+}
