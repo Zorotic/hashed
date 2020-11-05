@@ -1,0 +1,2 @@
+# hashed
+Hashed - Discord Bot
