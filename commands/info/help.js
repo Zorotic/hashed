@@ -11,5 +11,5 @@ module.exports = {
         .setTimestamp();
 
         message.channel.send(helpEmbed)
-        }
-    };
+    }
+};
